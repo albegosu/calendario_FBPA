@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "axios": "^1.7.9",
+    "googleapi": "^1.0.2",
+    "googleapis": "^144.0.0",
+    "ics": "^3.8.1",
+    "jsdom": "^26.0.0",
+    "puppeteer": "^24.1.0"
+  }
+}
